@@ -1,0 +1,6 @@
+name: mmoFix
+version: '${project.version}'
+main: azisaba.net.mmofix.MMOFix
+api-version: '1.20'
+depend:
+  - mmoUtils

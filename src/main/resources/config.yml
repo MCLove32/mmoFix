@@ -1,0 +1,10 @@
+Fields:
+  - Field
+
+SurvivalWorlds:
+  - world
+  - world_nether
+  - world_the_end
+  - resource_world
+  - resource_nether
+  - resource_the_world
